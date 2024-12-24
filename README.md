@@ -9,15 +9,12 @@
 ตั้งค่าใน Terminal
 
 เปิด Terminal และรันคำสั่ง:
-bash
-Copy code
-git clone <URL ของ repository>
+git clone URL ของ repository
 cd product-landing-page
 เปิดใน VSCode
 สร้างไฟล์ index.html
 
-# หน้าแนะนำสินค้า  
-เว็บไซต์แนะนำสินค้าแบบ Responsive สร้างด้วย HTML และ TailwindCSS  
+สร้างโครงสร้างไฟล์เริ่มต้น
 git add .
 git commit -m "สร้างโครงสร้างโปรเจคเริ่มต้น"
 git push
